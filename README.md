@@ -6,4 +6,4 @@ Below, you can find a list of demo-repositories showcasing the current progress 
 
 - [Art & Story Pipelines](https://github.com/jspro123/Demo-Detective-Pipeline)
 - Notebook
-- Push Fight
+- [Puzzle: Push Fight Implementation](https://github.com/jspro123/Demo-Detective-Push-Fight)
